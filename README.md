@@ -65,4 +65,3 @@ Acknowledgments
 Next.js team for the amazing framework
 Tailwind CSS for the utility-first CSS framework
 NextAuth.js for the authentication library
->>>>>>> 7847d4200daa32b646a166e36480f4e0533432cb
